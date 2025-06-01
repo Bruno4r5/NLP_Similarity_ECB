@@ -1,7 +1,6 @@
 # The Similarity of ECB's Communication: Replication & Extension
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Academic Project](https://img.shields.io/badge/Type-Academic%20Research-orange.svg)](https://github.com)
 
 ## 📋 Project Overview
